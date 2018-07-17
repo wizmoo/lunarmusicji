@@ -1,0 +1,6 @@
+token=NDY4ODIwMTI5MTExODY3Mzky.Di-uZw.dD4AfdUexgcAJhn6PBdP_k2uTP4
+owner=201460488037466112
+prefix=?
+game=?help - Lunarium Joky
+stayinchannel=true
+songinstatus=true
